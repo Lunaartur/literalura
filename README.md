@@ -12,6 +12,9 @@ Projeto desenvolvido em Spring, onde consumimos a api gutendex, e realizamos ope
 
 🚀 Funcionamento
 
+- Configure o arquivo application.properties com suas variáveis de ambiente.
+- Certifique-se que o arquivo pom.xml possui todas as dependências.
+
 Na parte de código, o consumo da API só é realizada pela primeira operação, onde retorna alguns dados que são filtrados e salvos no banco de dados.
 As demais operações utilizam-se do banco de dados para consulta, utilizando formato de Queries e consultas JPQL para retornar os dados.
 
