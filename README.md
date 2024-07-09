@@ -1,6 +1,6 @@
 Liter Alura
 <div align="center">
-  <img src="https://github.com/Lunaartur/alurahub/assets/125662966/bba0254d-adeb-466f-882c-538efd2e7a8b" alt="alurahub">
+  <img src="https://github.com/Lunaartur/literalura/assets/125662966/ef8fb94b-f741-478b-a5e8-acc12d81a9ca" alt="alurahub">
 </div>
 Projeto desenvolvido em Spring, onde consumimos a api gutendex, e realizamos operações com os livros que são retornados.
 
