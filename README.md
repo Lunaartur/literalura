@@ -8,7 +8,8 @@ Projeto desenvolvido em Spring, onde consumimos a api gutendex, e realizamos ope
 - Java JDK Versão 17.
 - IntelliJ IDEA -> https://www.jetbrains.com/pt-br/idea/
 - Postgree SQL instalado -> [https://www.mysql.com/downloads/](https://www.postgresql.org/)
-- gutendex
+- gutendex -> https://gutendex.com/
+
 🚀 Funcionamento
 
 Na parte de código, o consumo da API só é realizada pela primeira operação, onde retorna alguns dados que são filtrados e salvos no banco de dados.
