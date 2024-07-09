@@ -16,16 +16,17 @@ Na parte de código, o consumo da API só é realizada pela primeira operação,
 As demais operações utilizam-se do banco de dados para consulta, utilizando formato de Queries e consultas JPQL para retornar os dados.
 
 Ao inciar o projeto, um menu se abrirá com as seguintes operações:
-"""
-                    1 - Buscar Livro
-                    2 - Listar Livros Registrados
-                    3 - Listar Autores Registrados
-                    4 - Listar Autores em um Determinado Ano
-                    5 - Listar Livros de por Idioma
-                    0 - Sair                                 
+
+  - 1. Buscar Livro
+  - 2. Listar Livros Registrados
+  - 3. Listar Autores Registrados
+  - 4. Listar Autores em um Determinado Ano
+  - 5. Listar Livros de por Idioma
+  - 0. Sair                                 
                     
-""";
+
 
 Basta selecionar a operação desejada caso já possua um livro cadastrado.
-Powered by Luna, Arthur
+
+- Powered by Luna, Arthur
 
